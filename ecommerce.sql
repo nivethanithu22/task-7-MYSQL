@@ -204,6 +204,8 @@ WHERE total_amount > 150.00;
 |  3 |           3 | 2025-03-19 |       250.00 |
 +----+-------------+------------+--------------+
 
+9) --Normalize the order_items table
+
 10) Retrieve the average total of all orders.
  SELECT AVG(total_amount) AS total_order
 FROM orders;
