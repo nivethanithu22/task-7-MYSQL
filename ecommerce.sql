@@ -61,7 +61,7 @@ mysql>select * from orders;
 |  3 |           3 | 2025-04-11 |       250.00 |
 +----+-------------+------------+--------------+
 
---insert the data into the products table h
+--insert the data into the products table hello
 
 INSERT INTO products(name,price,description)    
  VALUES("product A",100,"product A details"),
