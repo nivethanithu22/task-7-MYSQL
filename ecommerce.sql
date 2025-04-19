@@ -62,7 +62,7 @@ mysql>select * from orders;
 +----+-------------+------------+--------------+
 
 --insert the data into the products table hello
-
+joo
 INSERT INTO products(name,price,description)    
  VALUES("product A",100,"product A details"),
        ("product B",150,"product B details"),
